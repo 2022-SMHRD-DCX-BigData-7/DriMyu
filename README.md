@@ -120,10 +120,11 @@
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/0f2ecb11-6dac-4243-b225-3e49a52b2fc3" width="100" height="100"/></td>
-<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/31cbe07c-b4b4-4cd2-a4d2-29f15f8f2ef2" width="100" height="100"/></td>
-<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/322a2a59-1b27-4b2a-88cb-3314776452af" width="100" height="100"/></td>
-<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/0fbb4a7b-d51f-4821-a0e8-e700c82fbba5" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/0f2ecb11-6dac-4243-b225-3e49a52b2fc3" width="100" height="100"/></td>
+<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/31cbe07c-b4b4-4cd2-a4d2-29f15f8f2ef2" width="100" height="100"/></td>
+<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/322a2a59-1b27-4b2a-88cb-3314776452af" width="100" height="100"/></td>
+<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/0fbb4a7b-d51f-4821-a0e8-e700c82fbba5" width="100" height="100"/></td>
+
 
   </tr>
   <tr>
@@ -134,16 +135,16 @@
     
   </tr>
   <tr>
-    <td align="center"><b>PM, Frontend</b></td>
-    <td align="center"><b><Data Modeling</b></td>
-    <td align="center"><b>AI Modeling</b></td>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>PM, Fron-tend</b></td>
+    <td align="center"><b><Data-Modeling</b></td>
+    <td align="center"><b>AI-Modeling</b></td>
+    <td align="center"><b>Fron-tend</b></td>
     
   </tr>
    <tr>
-    <td align="center"><b>Backend,AI Modeling</b></td>
-    <td align="center"><b><Data Modeling, Backend</b></td>
-    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Back-end,AI-Modeling</b></td>
+    <td align="center"><b>Back-end</b></td>
+    <td align="center"><b>Back-end</b></td>
     <td align="center"><b>crawling </b></td>
     
   </tr>
