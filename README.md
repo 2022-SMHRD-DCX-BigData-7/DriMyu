@@ -120,33 +120,32 @@
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
-    <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
-    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
+    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/0f2ecb11-6dac-4243-b225-3e49a52b2fc3)" width="100" height="100"/></td>
+    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/31cbe07c-b4b4-4cd2-a4d2-29f15f8f2ef2)" width="100" height="100"/></td>
+    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/322a2a59-1b27-4b2a-88cb-3314776452af)" width="100" height="100"/></td>
+    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/0fbb4a7b-d51f-4821-a0e8-e700c82fbba5)" width="100" height="100"/></td>
+    
   </tr>
   <tr>
     <td align="center"><strong>이재승</strong></td>
-    <td align="center"><strong>신민식</strong></td>
     <td align="center"><strong>황동휘</strong></td>
-    <td align="center"><strong>우태현</strong></td>
-    <td align="center"><strong>이창훈</strong></td>
+    <td align="center"><strong>서동찬</strong></td>
+    <td align="center"><strong>장예빈</strong></td>
+    
   </tr>
   <tr>
-    <td align="center"><b>PM, Frontend</b></td>
-    <td align="center"><b>Frontend, Backend</b></td>
-    <td align="center"><b>Data Modeling, Frontend</b></td>
+    <td align="center"><b>PM, Frontend,AI Modeling</b></td>
+    <td align="center"><b><Data Modeling, Backend</b></td>
+    <td align="center"><b>AI Modeling, Backend</b></td>
     <td align="center"><b> crawling, Frontend</b></td>
-    <td align="center"><b> crawling, Backend</b></td>
     
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jsl2695" target='_blank'>jsl2695</a></td>
-    <td align="center"><a href="https://github.com/minsikkkk" target='_blank'>minsikkkk</a></td>
-    <td align="center"><a href="https://github.com/ghkdehdgnlqwpoeurio" target='_blank'>ghkdehdgnlqwpoeurio</a></td>
-    <td align="center"><a href="https://github.com/lickthwoo88" target='_blank'>lickthwoo88</a></td>
-    <td align="center"><a href="https://github.com/sogoodjace" target='_blank'>sogoodjace</a></td>
+    <td align="center"><a href="https://github.com/minsikkkk" target='_blank'>ghkdehdgnlqwpoeurio</a></td>
+    <td align="center"><a href="https://github.com/ghkdehdgnlqwpoeurio" target='_blank'>seodongchan1</a></td>
+    <td align="center"><a href="https://github.com/lickthwoo88" target='_blank'>yebinjang</a></td>
+    
   </tr>
 </table>
 <br><br>
