@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td align="center"><b>PM, Fron-tend</b></td>
-    <td align="center"><b><Data-Modeling</b></td>
+    <td align="center"><b>Data-Modeling</b></td>
     <td align="center"><b>AI-Modeling</b></td>
     <td align="center"><b>Fron-tend</b></td>
     
