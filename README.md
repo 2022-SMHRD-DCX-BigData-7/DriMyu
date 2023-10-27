@@ -38,7 +38,8 @@
         <td>라이브러리</td>
         <td>
             <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GoogleAPI-32CD32?style=for-the-badge&logo=Google Maps&logoColor=white">
+            <li>Ajax</li>
+            <li>MyBatis</li>
         </td>
     </tr>
     <tr>
@@ -46,8 +47,14 @@
         <td>
             <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/googleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
             <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>프레임워크</td>
+        <td>
+            <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -59,7 +66,7 @@
     <tr>
         <td>데이터베이스</td>
         <td>
-            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -72,8 +79,6 @@
 </table>
 
 <br>
-<br>
-## ⚙ 시스템 아키텍처(구조) 예시 
 
 <br><br>
 
@@ -106,13 +111,17 @@
 
 <br>
 
-### 추천드리뮤/ 촬영지 드리뮤
+### 여행지 추천
 ![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/6dfcd255-88d0-4c31-b538-f622e1c177ef)
 <br>
+### 추천드리뮤
 ![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/a46c0517-ccb0-4cfa-8ddc-6c02cce25c93)
 <br>
+### 촬영지 드리뮤
 ![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/9d2f727c-714f-47de-bb0b-f65ec726c4d4)
-
+<br>
+### 자유게시판
+![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/026a2a7e-0dc9-4d48-b4cc-79d42fc9e506)
 
 <br>
 <br>
@@ -164,21 +173,11 @@
 > 중복된 클래스 또는 특정 디자인 값을 요구하는 클래스들을 수정, 독립적인 CSS값을 주어 해결.<br>
   
 * 문제2
-> 기존 습득한 방식의 모달 기능을 응용해서 페이지의 내용을 표시하려 하였지만 다른 클래스들과 충돌이 발생해 원하는 결과을 얻을 수 없었음.<br>
-> 모달 코드를 기존과 다르게 새롭게 구성하여 해결.<br>
+> 여행지 추천하는 페이지들을 하나의 페이지에서 3개의 페이지처럼 동작 하게 하는 코드를 구성하는데 어려움이 있었음<br>
+> 자바스크립트를 수정 및 css 변형을 통해 극복<br>
   
 * 문제3
-> 프리 템플릿을 활용하여 탭기능을 사용하려 했으나 css가 다른 클래스값과 중복되어 원하는 결과 값을 얻을수 없었음.<br>
-> 다른방식의 탭기능의 코드를 적용 시켜 본뒤 재구축 하여 기능 문제를 해결하고 클래스를 변경하여 CSS문제를 해결.<br>
+> 데이터 전처리 과정에서 부족한 칼럼수와 너무 많은 관광지로 인해 답지의 수가 너무 많아져 모델이 예측하기에 조건들이 부족함<br>
+> 표본 추출법으로 관광지를 지자체별로 단일화, 주소를 단위단위로 분리하여 조건수를 늘림, 카테고리를 정리 하여 조건 증가하여 극복<br>
  
-* 문제4
-> 날씨 기상청 단기예보 API를 처음에 사용했는데 날씨가 1시간 단위로 나와서 원하는 데이터 값을 확보하는데 문제발생.<br>
-> 실시간 예상날씨를 사용할 수 있는 openweathermap API로 변경하여 사용. 또한 데이터가 영문 데이터로 나와서 한글로 매핑하고 데이터 가져오는데 어려움이 있었으나 극복.<br>
 
-* 문제5
-> 지도를 구성하는데 있어 카카오맵 API / 네이버지도 API 를 사용하려 했는데 네이버 지도API는 인증을 계속해도 데이터를 불러오지 못하는 문제가 발생, 카카오맵 API는 자체 지오코딩 지원을 하지 않아서 특정지역의 정보검색을 할수 없었음.<br>
-> 지오코딩을 지원해주는 구글맵 API로 변경하여 사용.<br>
-
-* 문제6
->사고다발지역 폴리곤 만드는 코드안에 배열로 사고지역들 폴리곤 위도 경도를 넣었는데 사고 갯수가 너무 많아서 속도도 느리고 오류도 자주 발생하는 문제가 있었음.<br>
->사고지역 폴리곤들을 csv로 만들어서 자바스크립트 코드에서 csv를 읽어오는 형식으로 수정함.<br>
