@@ -120,11 +120,11 @@
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/0f2ecb11-6dac-4243-b225-3e49a52b2fc3)" width="100" height="100"/></td>
-    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/31cbe07c-b4b4-4cd2-a4d2-29f15f8f2ef2)" width="100" height="100"/></td>
-    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/322a2a59-1b27-4b2a-88cb-3314776452af)" width="100" height="100"/></td>
-    <td align="center"><img src="![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/0fbb4a7b-d51f-4821-a0e8-e700c82fbba5)" width="100" height="100"/></td>
-    
+    <td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/0f2ecb11-6dac-4243-b225-3e49a52b2fc3" width="100" height="100"/></td>
+<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/31cbe07c-b4b4-4cd2-a4d2-29f15f8f2ef2" width="100" height="100"/></td>
+<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/322a2a59-1b27-4b2a-88cb-3314776452af" width="100" height="100"/></td>
+<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/raw/main/assets/139085299/0fbb4a7b-d51f-4821-a0e8-e700c82fbba5" width="100" height="100"/></td>
+
   </tr>
   <tr>
     <td align="center"><strong>이재승</strong></td>
@@ -134,17 +134,24 @@
     
   </tr>
   <tr>
-    <td align="center"><b>PM, Frontend,AI Modeling</b></td>
+    <td align="center"><b>PM, Frontend</b></td>
+    <td align="center"><b><Data Modeling</b></td>
+    <td align="center"><b>AI Modeling</b></td>
+    <td align="center"><b>Frontend</b></td>
+    
+  </tr>
+   <tr>
+    <td align="center"><b>Backend,AI Modeling</b></td>
     <td align="center"><b><Data Modeling, Backend</b></td>
-    <td align="center"><b>AI Modeling, Backend</b></td>
-    <td align="center"><b> crawling, Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>crawling </b></td>
     
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jsl2695" target='_blank'>jsl2695</a></td>
-    <td align="center"><a href="https://github.com/minsikkkk" target='_blank'>ghkdehdgnlqwpoeurio</a></td>
-    <td align="center"><a href="https://github.com/ghkdehdgnlqwpoeurio" target='_blank'>seodongchan1</a></td>
-    <td align="center"><a href="https://github.com/lickthwoo88" target='_blank'>yebinjang</a></td>
+    <td align="center"><a href="https://github.com/ghkdehdgnlqwpoeurio" target='_blank'>ghkdehdgnlqwpoeurio</a></td>
+    <td align="center"><a href="https://github.com/seodongchan1" target='_blank'>seodongchan1</a></td>
+    <td align="center"><a href="https://github.com/yebinjang" target='_blank'>yebinjang</a></td>
     
   </tr>
 </table>
