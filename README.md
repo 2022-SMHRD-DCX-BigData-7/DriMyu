@@ -96,17 +96,24 @@
 
 ## 🖥 화면 구성
 
-### 메인화면 / 날씨정보/ 자전거 사고다발구간
+### 메인화면
 ![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/d8843cde-8b9e-4520-b1ea-91fde1928705)
 
 <br>
 
-### 아름다운 추천 자전거길 100선 / 지자체 추천 자전거길 / 바다를 품은섬 자전거길
-![image](https://github.com/2022-SMHRD-DCX-BigData-7/BlueHill/assets/139085299/d3a7a0fa-7727-4783-8d61-629707c7a72a)
+### 여행지 소개
+![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/8ad66f9f-2ec2-4c20-bf52-f37951b3d344)
+
 <br>
 
-### 국토종주 소개/ 국토종주 자전거길/ 지자체 공유자전거 안내
-![image](https://github.com/2022-SMHRD-DCX-BigData-7/BlueHill/assets/139085299/f16d522a-7917-4c54-902c-13be7b65a39b)
+### 추천드리뮤/ 촬영지 드리뮤
+![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/6dfcd255-88d0-4c31-b538-f622e1c177ef)
+<br>
+![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/a46c0517-ccb0-4cfa-8ddc-6c02cce25c93)
+<br>
+![image](https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/9d2f727c-714f-47de-bb0b-f65ec726c4d4)
+
+
 <br>
 <br>
 
