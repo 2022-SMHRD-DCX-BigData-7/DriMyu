@@ -120,10 +120,10 @@
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/0f2ecb11-6dac-4243-b225-3e49a52b2fc3" width="100" height="100"/></td>
-<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/31cbe07c-b4b4-4cd2-a4d2-29f15f8f2ef2" width="100" height="100"/></td>
-<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/322a2a59-1b27-4b2a-88cb-3314776452af" width="100" height="100"/></td>
-<td align="center"><img src="https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/blob/main/assets/139085299/0fbb4a7b-d51f-4821-a0e8-e700c82fbba5" width="100" height="100"/></td>
+    <td align="center"><img src=https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/2d92decb-9097-4647-93cb-0e7ece7b4a13 width="100" height="100"/></td>
+<td align="center"><img src=https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/3060e462-9980-4850-8ddc-182b018dee40 width="100" height="100"/></td>
+<td align="center"><img src=https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/2fb16faf-8f33-4f25-ad7e-55f434ae68b1width="100" height="100"/></td>
+<td align="center"><img src=https://github.com/2022-SMHRD-DCX-BigData-7/DriMyu/assets/139085299/06fc7c66-4b35-4765-b88b-a0f80d4f5b45width="100" height="100"/></td>
 
 
   </tr>
